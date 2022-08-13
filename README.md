@@ -2,9 +2,9 @@
 
 ####  I'm Uriel Paluch, I'm a student of Actuarial Science at University of Buenos Aires (UBA) and I work as a Data Analyst at Cohen.  
 
-- 🔭 I’m currently working on R & Shiny Projects.
+- 🔭 I’m currently working on R & Python Projects.
 - 🌱 I’m currently learning GCP.
-- 👯 I’m looking to collaborate on Machine Learning Packages.
+- 👯 I’m looking to collaborate on Trading Projects.
 - 💬 Ask me about any tech related stuff!
 
 __Reach me out!__
