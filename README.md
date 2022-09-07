@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-####  I'm Uriel Paluch, I'm a student of Actuarial Science at University of Buenos Aires (UBA) and I work as a Data Analyst at Cohen.  
+#### I'm a student of Actuarial Science at University of Buenos Aires (UBA) and I work as a Data Analyst at Cohen.  
 
 - 🔭 I’m currently working on R & Python Projects.
 - 🌱 I’m currently learning GCP.
