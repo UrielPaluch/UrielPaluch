@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uriel Paluch</h1>
-- 🔭 I’m currently working on **HFT Projects**
 
+- 🔭 I’m currently working on **HFT Projects**
 - 📫 How to reach me **uripaluch2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
